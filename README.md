@@ -12,4 +12,4 @@ Type of input accepted:
 
 3. 2-VARIABLE EQUATIONS
   - ax + by = c
-    px + qy = r  where a,b,c,p,q,r belongs to any real numbers
+  - px + qy = r  where a,b,c,p,q,r belongs to any real numbers
